@@ -158,6 +158,7 @@
     "OPERATORS_ROUND": "round %1",
     "OPERATORS_MATHOP": "%1 of %2",
     "OPERATORS_SQUARE": "square of %1",
+    "OPERATORS_SQUARE_ROOT": "square root of %1",
     "OPERATORS_MATHOP_ABS": "abs",
     "OPERATORS_MATHOP_FLOOR": "floor",
     "OPERATORS_MATHOP_CEILING": "ceiling",

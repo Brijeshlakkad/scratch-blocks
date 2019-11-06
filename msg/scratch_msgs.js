@@ -168,6 +168,7 @@ Blockly.ScratchMsgs.locales["ab"] =
     "OPERATORS_ROUND": "ихаргьежьтәуп %1 ",
     "OPERATORS_MATHOP": "%1 %2",
     "OPERATORS_SQUARE": "square of %1",
+    "OPERATORS_SQUARE_ROOT": "square root of %1",
     "OPERATORS_MATHOP_ABS": "abs",
     "OPERATORS_MATHOP_FLOOR": "еиҵоу еибгоу",
     "OPERATORS_MATHOP_CEILING": "еиҳау еибгоу",
